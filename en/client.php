@@ -2,27 +2,27 @@
 <html>
 	<head>
 		<title>Demo Web</title>
-		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/semantic.css">
-		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/flexslider.css" media="screen" />
-		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/custom.css">
+		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/semantic.css">
+		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/custom.css">
 	</head>
 	<body>
 
 		<div class=" container-wrapper">
-		 <?php include ("menu-bhs.php")  ?>
+		  	<?php include ("menu-en.php")  ?>
 
 			<div class="ui container segment">
-			<?php include ("submenu-bhs-partner.php")  ?>
-			</div>			
+			<?php include ("submenu-en-partner.php")  ?>
+			</div>
 
 			<div class="content-others">
 				<div class="top-content"></div>
 				<div class="content-inner">
 					<div class="content-images">
-						<img class="" src="themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
+						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
 					</div>
 					<div class="content-descriptions">
-						<h3>Klien Kami</h3>
+						<h3>Our Client</h3>
 
 						<div class="ui grid" style="margin-bottom: 20px;">
 						  	<div class="eight wide column">
@@ -80,12 +80,11 @@
 						  	</div>
 						</div>
 
-						<p style="text-align: center;">Dan klien korporasi serta individual lainnya...</p>
+						<p style="text-align: center;">and other corporate and individual clients...</p>
 
-						<blockquote><p>Komitmen kami adalah senantiasa menjaga hubungan baik
-						dengan para klien dalam memenuhi dan melayani kebutuhan asuransi serta dalam penyelesaian masalah klaim.</p>
+						<blockquote><p>Our commitment is always to maintain good relationships with clients
+						and serving the needs of insurance and in resolving claims problems.</p>
 						</blockquote>
-
 						
 					</div>
 				</div>
@@ -93,12 +92,12 @@
 				<div class="top-content" style="margin-top:-64px;"></div>
 			</div>
 
-	        <?php include ("footer.php")  ?>
+	        <?php include ("footer-en.php")  ?>
 		</div>
 
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-        <script src="themes/default/assets/js/semantic.js"></script>
-        <script src="themes/default/assets/js/search.js"></script>
+        <script src="../themes/default/assets/js/semantic.js"></script>
+        <script src="../themes/default/assets/js/search.js"></script>
         
 	</body>
 </html>

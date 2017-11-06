@@ -180,7 +180,7 @@ li.css a {
     
 }
 
-.content-descriptions p, .content-descriptions h4{
+.content-descriptions p, .content-descriptions h4, .content-descriptions h5{
 	color: #888;
 }
 .content-descriptions h3{
@@ -243,7 +243,9 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
-
+.ui.ordered.list{
+    color: #888;
+}
 .clearfix:before,
 .clearfix:after {
   content: ".";    
