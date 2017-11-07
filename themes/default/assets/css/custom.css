@@ -15,7 +15,7 @@
 	float: left;
     width: 100%;
     position: absolute;
-    max-width: 700px;
+    max-width: 690px;
     top: 50px;
 }
 .ui.menu .right.menu .dropdown:last-child .menu, .ui.menu .right.dropdown.item .menu, .ui.buttons > .ui.dropdown:last-child .menu.menu-drop{
@@ -24,8 +24,38 @@
 	width: 200px;
 }
 ul.menu-clear{
-	list-style-type: none;
-	text-align: right;
+    list-style-type: none;
+    text-align: right;
+    background: #002060;
+    max-width: 630px;
+    float: right;
+    border-radius: 5px;
+    padding: 0 10px;
+}
+
+.ui.secondary.menu ul.menu-clear li a, .ui.secondary.menu .item{
+	color: #fff;
+}
+.ui.secondary.menu .active.item {
+    box-shadow: none;
+    background: rgb(2, 22, 62);
+    color: rgba(255, 255, 255, 0.95);
+    border-radius: 0.28571429rem;
+}
+.ui.secondary.menu .active.item:hover, .ui.secondary.menu .item:hover {
+    box-shadow: none;
+    background: rgba(2, 22, 62, 1);
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.ui.secondary.menu .dropdown.item:hover, .ui.secondary.menu .link.item:hover, .ui.secondary.menu a.item:hover {
+    background: rgba(2, 22, 62, 1);
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.ui.menu .ui.dropdown .menu > .item:hover {
+    background: rgba(2, 22, 62, 1) !important;
+    color: rgba(255, 255, 255, 0.95) !important;
 }
 .ui.breadcrumb a {
     color: #888888;
@@ -121,7 +151,7 @@ li.css a {
 	font-size: 12px;
 }
 .footer-content{
-	background: rgb(0,32,96);
+	background: rgb(255,255,255);
     padding: 10px;
     float: left;
     width: 100%;
@@ -138,9 +168,10 @@ li.css a {
 .footer-content .center-content{
 	max-width: 330px;
     float: left;
-    text-align: center;
+    text-align: left;
     margin: 20px;
-    color: #fff;
+    color: #888;
+    font-weight: bold;
     vertical-align: middle;
 }
 .list-corporate{
@@ -149,6 +180,12 @@ li.css a {
 .list-corporate li{
 	display: inline-block;
     margin: 0 10px;
+}
+
+.list-corporate li span{
+	float: left;
+    margin-top: -25px;
+    color: #888;
 }
 .content-others{
 	position: relative;
