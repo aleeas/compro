@@ -1,6 +1,6 @@
 <div class="ui secondary  menu">
 		  	<div class="left menu">
-		  		<img src="themes/default/assets/images/you logo here.png" id="logo-top">
+		  		<img src="themes/default/assets/images/Logo ARMS-01.png" id="logo-top">
 		  	</div>			  
 			  <div class="right menu full-width">
 			    <div class="menu-place">

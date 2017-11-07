@@ -10,7 +10,11 @@
 
 		<div class=" container-wrapper">
 		  	<?php include ("menu-en.php")  ?>
-			
+
+			<div class="ui container segment">
+			<?php include ("submenu-en.php")  ?>
+			</div>
+
 			<div class="content-others">
 				<div class="top-content"></div>
 				<div class="content-inner">
@@ -18,9 +22,18 @@
 						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
 					</div>
 					<div class="content-descriptions">
-						<h3>Contact</h3>
-						<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32. <br><br>
-						The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+						<h3>Profile</h3>
+						<p>PT. Alih Risiko Makna Sejahtera (ARMS) was established
+						and operational since 2012. We actively grow and develop into an integrated risk service provider
+						to meet the dynamic market demand conditions and the needs of our ever-changing clients. </p>
+
+						<p>PT. Alih Risiko Makna Sejahtera (ARMS) is managed by an expert with background and insurance experience, as well as special education from insurance management colleges and academies, so we can
+						provide better client / customer satisfaction. </p>
+
+						<p>PT. Alih Risiko Makna Sejahtera (ARMS) is a direct insurance broker company from the Insured (the customer) to the Insurer (insurance company). We are service oriented and focused. We listen carefully and understand the client's needs. This is our point of difference for and in enhancing customer/client satisfaction and trust.</p>
+
+						<p>Our primary services are Insurance Broker, Risk Management,
+						Claim Consultant, Insurance Recovery and Specialist Insurance Advocate.</p>
 					</div>
 				</div>
 				<div class="clearfix"></div>

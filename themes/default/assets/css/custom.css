@@ -126,11 +126,13 @@ li.css a {
     float: left;
     width: 100%;
     margin-bottom: 10px;
+    height: 100px;
 
 }
 .footer-content img{
 	float: left;
 	max-width: 169px;
+    margin-top: 10px;
 }
 
 .footer-content .center-content{
@@ -177,13 +179,71 @@ li.css a {
     padding-bottom: 90px;
     
 }
-.content-descriptions p{
+
+.content-descriptions p, .content-descriptions h4{
 	color: #888;
 }
 .content-descriptions h3{
-	font-size: 2.4rem;
-	color: #fff;
+    font-size: 1.6rem;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 5px;
 }
+
+.content-descriptions .ui.list .item span.title-heading{
+    width: auto;
+    max-width: 200px;
+    min-width: 200px;
+    float: left;
+    color: #888;
+}
+.content-descriptions .ui.list .item span.title-heading:after{
+    content: ":";
+    float: right;
+    margin-right: 20px;
+}
+.content-descriptions .ui.list h4{
+    margin: 20px 0 10px;
+}
+span.icon-text{
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+    color: #888;
+}
+.content-describer{
+    background: #6e7380;
+    padding: 20px 30px;
+    border-radius: 20px;
+}
+
+.content-describer p, .content-describer h4{
+    color: #fff;
+}
+
+.content-describer p span.dropcat{
+    font-size: 20px;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
 .clearfix:before,
 .clearfix:after {
   content: ".";    

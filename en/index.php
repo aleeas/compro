@@ -17,7 +17,7 @@
 	            <li>
 	  	    	    <img src="../themes/default/assets/images/wireframe-img.png" />
 	              	<div class="flex-caption">
-	              		<div id="logo-caption"><img src="../themes/default/assets/images/you logo here.png"></div>
+	              		<div id="logo-caption"><img src="../themes/default/assets/images/Logo ARMS-01.png"></div>
 	              		<h3>Fire Property Insurance</h3>
 	              		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	              		tempor incididunt ut labore et dolore magna aliqua.  Excepteur sint occaecat cupidatat non
@@ -27,7 +27,7 @@
 	  	    		<li>
 	  	    	    <img src="../themes/default/assets/images/wireframe-img.png" />
 	              	<div class="flex-caption">
-	              		<div id="logo-caption"><img src="../themes/default/assets/images/you logo here.png"></div>
+	              		<div id="logo-caption"><img src="../themes/default/assets/images/Logo ARMS-01.png"></div>
 	              		<h3>Vehicle Insurance</h3>
 	              		<p>Ut enim ad minim veniam,	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 	              		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -37,7 +37,7 @@
 	  	    		<li>
 	  	    	    <img src="../themes/default/assets/images/wireframe-img.png" />
 	              	<div class="flex-caption">
-	              		<div id="logo-caption"><img src="../themes/default/assets/images/you logo here.png"></div>
+	              		<div id="logo-caption"><img src="../themes/default/assets/images/Logo ARMS-01.png"></div>
 	              	 	<h3>Inklusi Keuangan</h3>
 	              	 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	              		tempor incididunt ut labore et dolore magna aliqua.  Excepteur sint occaecat cupidatat non
@@ -47,7 +47,7 @@
 	  	    		<li>
 	  	    	    <img src="../themes/default/assets/images/wireframe-img.png" />
 	              	<div class="flex-caption">
-	              		<div id="logo-caption"><img src="../themes/default/assets/images/you logo here.png"></div>
+	              		<div id="logo-caption"><img src="../themes/default/assets/images/Logo ARMS-01.png"></div>
 	              		<h3>Cargo Insurance</h3>
 	              		<p>Ut enim ad minim veniam,	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 	              		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
@@ -119,20 +119,8 @@
 
 	        <div class="divider-content"></div>
 
-	        <footer>
-	        	<div class="footer-content">
-	        		<img src="../themes/default/assets/images/you logo here.png" height="60">
-	        		<div class="center-content">"We make your insurance needs to be Efficient, Effective and Reliable"</div>
-	        		<ul class="list-corporate">
-	        			<li><a href="#!"><img src="themes/default/assets/images/OJK_Logo.png" height="40"></a></li>
-	        			<li><a href="#!"><img src="themes/default/assets/images/mari-berasuransi.png" height="40"></a></li>
-	        			<li><a href="#!"><img src="themes/default/assets/images/aparindo logo.jpg" height="40"></a></li>
-	        		</ul>
-	        	</div>
-	        	<div class="copyright-text">
-	        		&copy; Copyright 2017 ARMS Insurance, All Right Reserved
-	        	</div>
-	        </footer>
+	        <?php include ("footer-en.php")  ?>
+
 		</div>
 
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
@@ -142,29 +130,7 @@
         <script type="text/javascript">
 		    
 		    $( document ).ready(function() {
-
-		      var content = [
-					{
-					title: 'Brokers',
-					description: 'Why Broker?',
-					url: 'benefit.html'
-					},
-					{
-					title: 'Home',
-					description: 'Home Page',
-					url: 'index.html'
-					}
-				];
-
-				$('.ui.search')
-				.search({
-					source : content,
-					searchFields   : [
-					'title'
-					],
-					searchFullText: false
-				});
-
+		     
 		      $('.flexslider').flexslider({
 		        animation: "slide",
 		        start: function(slider){
@@ -185,6 +151,7 @@
 		      });
 		    });
 		  </script>
+		  <script src="../themes/default/assets/js/search.js"></script>
 		<script src="../themes/default/assets/js/jquery.easing.js"></script>
   		<script src="../themes/default/assets/js/jquery.mousewheel.js"></script>
 	</body>

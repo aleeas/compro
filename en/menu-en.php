@@ -1,6 +1,6 @@
 <div class="ui secondary  menu">
 	<div class="left menu">
-		<img src="../themes/default/assets/images/you logo here.png" id="logo-top">
+		<img src="../themes/default/assets/images/Logo ARMS-01.png" id="logo-top">
 	</div>			  
   <div class="right menu full-width">
     <div class="menu-place">
@@ -20,16 +20,14 @@
     <div class="clearfix"></div>
     <div class="menu-home">
     	<ul class="menu-clear">
-    		<li><a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'index.php'){echo 'active'; }else { echo ''; } ?>" href="index.php">
-			    Home
-			 </a></li>
+    		<li><a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'index.php'){echo 'active'; }else { echo ''; } ?>" href="index.php"> Home </a></li>
 			 <li><div class="ui simple dropdown item">
 			    About Us
 			    <div class="menu menu-drop">
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'why-broker.php'){echo 'active'; }else { echo ''; } ?>" href="why-broker.php">Why Brokers</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'benefit.php'){echo 'active'; }else { echo ''; } ?>" href="benefit.php">Benefit</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profile</a>
-			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Vision &amp; Mission</a>
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Vision &amp; Missions</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Work Philosopy</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'management.php'){echo 'active'; }else { echo ''; } ?>" href="management.php">Board Of Management</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'our-team.php'){echo 'active'; }else { echo ''; } ?>" href="our-team.php">Our Team</a>
