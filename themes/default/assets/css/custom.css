@@ -165,11 +165,11 @@ li.css a {
     margin-top: 10px;
 }
 
-.footer-content .center-content{
-	max-width: 330px;
+.footer-content .center-content {
+    max-width: 250px;
     float: left;
     text-align: left;
-    margin: 20px;
+    margin: 20px 0;
     color: #888;
     font-weight: bold;
     vertical-align: middle;

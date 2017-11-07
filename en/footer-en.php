@@ -7,6 +7,7 @@
 			<li><a href="#!"><img src="../themes/default/assets/images/OJK_Logo.png" height="40"></a></li>
 			<li><a href="#!"><img src="../themes/default/assets/images/mari-berasuransi.png" height="40"></a></li>
 			<li><a href="#!"><img src="../themes/default/assets/images/aparindo logo.jpg" height="40"></a></li>
+			<li><a href="#!"><img src="../themes/default/assets/images/robema.jpeg" height="30"></a></li>
 		</ul>
 	</div>
 	<div class="copyright-text">
