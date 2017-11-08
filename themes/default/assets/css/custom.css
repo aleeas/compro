@@ -166,10 +166,11 @@ li.css a {
 }
 
 .footer-content .center-content {
-    max-width: 250px;
+    max-width: 230px;
     float: left;
     text-align: left;
-    margin: 20px 0;
+    margin: 20px 10px;
+    font-size: 13px;
     color: #888;
     font-weight: bold;
     vertical-align: middle;
@@ -184,7 +185,7 @@ li.css a {
 
 .list-corporate li span{
 	float: left;
-    margin-top: -25px;
+    font-size: 10px;
     color: #888;
 }
 .content-others{
