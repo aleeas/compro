@@ -67,7 +67,7 @@ var content = [
 	{
 	title: 'Advocacy Claim',
 	description: 'Advocacy Claim',
-	url: 'advocacy-claim.php'
+	url: 'claim-advocacy.php'
 	}
 ];
 
