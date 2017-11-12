@@ -15,12 +15,12 @@
 			<?php include ("submenu-bhs.php")  ?>
 			</div>			
 
-			<div class="content-others">
+			<div class="content-others" style="min-height:450px;">
 				
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="themes/default/assets/images/Sub Menu TENTANG KAMI - MANAJEMEN.JPG">
+						<img class="" src="themes/default/assets/images/Sub Menu TENTANG KAMI - MANAJEMEN.JPG" style="object-fit:cover;min-height:326px">
 					</div>
 					<div class="content-descriptions">
 						<div class="top-content-right"></div>
