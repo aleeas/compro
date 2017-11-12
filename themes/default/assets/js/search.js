@@ -1,7 +1,12 @@
 var content = [
 	{
-	title: 'Broker',
-	description: 'Kenapa Broker',
+	title: 'Why Broker',
+	description: 'Why Broker',
+	url: 'why-broker.php'
+	},
+	{
+	title: 'Benefit',
+	description: 'Benefit Insurance',
 	url: 'benefit.php'
 	},
 	{
