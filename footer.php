@@ -1,6 +1,6 @@
 <footer>
 	<div class="footer-content">
-		<img src="themes/default/assets/images/Logo ARMS-01.png" height="40"> 
+		<!-- <img src="themes/default/assets/images/Logo ARMS-01.png" height="40">  -->
 		<div class="center-content">"We make your insurance needs to be Efficient, Effective and Reliable"</div>
 		<ul class="list-corporate">
 			<li><span>Terdaftar dan Diawasi oleh :</span></li>

@@ -36,9 +36,18 @@
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'legality.php'){echo 'active'; }else { echo ''; } ?>" href="legality.php">Legalitas</a>
 						    </div>
 						 </div></li>
-						 <li><a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'services.php'){echo 'active'; }else { echo ''; } ?>" href="services.php">
+						 <!-- <li><a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'services.php'){echo 'active'; }else { echo ''; } ?>" href="services.php">
 						    Pelayanan
-						 </a></li>
+						 </a></li> -->
+						 <li><div class="ui simple dropdown item">
+						    Pelayanan
+						    <div class="menu menu-drop">
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-consultant.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-consultant.php">
+						      		Konsultan Asuransi</a>
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-program.php'){echo 'active'; }else { echo ''; } ?>" href="insurance.php">Program Asuransi</a>	
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'claim-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="claim-advocacy.php">Advokasi Klaim</a>						      
+						    </div>
+						 </div></li>
 						 <li><div class="ui simple dropdown item">
 						    Mitra
 						    <div class="menu menu-drop">
