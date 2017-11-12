@@ -20,7 +20,7 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
+						<img class="" src="../themes/default/assets/images/Sub Menu MITRA - KLIEN.jpg" style="object-fit:cover">
 						<blockquote><p>Our commitment is always to maintain good relationships with clients
 						and serving the needs of insurance and in resolving claims problems.</p>
 						</blockquote>
