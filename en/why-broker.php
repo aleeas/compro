@@ -19,7 +19,7 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
+						<img class="" src="../themes/default/assets/images/Sub Menu TENTANG KAMI - KENAPA BROKERS.jpg" style="object-fit:cover">
 						<blockquote><p>Insurance broker is different from insurance agent. Insurance broker represents on behalf of the insured’s interest, while insurance agent acts on behalf of the insurance company. 
 						Insurance agent does not need a license and operates under Financial Services Authority (OJK) supervision.</p></blockquote>
 					</div>

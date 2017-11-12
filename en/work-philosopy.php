@@ -19,7 +19,7 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
+						<img class="" src="../themes/default/assets/images/Sub Menu TENTANG KAMI - FILOSOFI.jpg" style="object-fit:cover">
 					</div>
 					<div class="content-descriptions">
 						<div class="top-content-right"></div>

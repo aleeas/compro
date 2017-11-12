@@ -12,51 +12,45 @@
 		  	<?php include ("menu-en.php")  ?>
 			
 			<div class="content-others">
-				<div class="ui message" style="position: absolute; top: 60%;  left: 63%; z-index: 10; display:none">
-				  <div class="header">
-				   Thank you
-				  </div>
-				  <p>Thank you for taking the time to contact us!</p>
-				</div>
-				
+								
 				<div class="content-inner">
 					<div class="content-images">
 					<div class="top-content-left"></div>
 						<img class="" src="../themes/default/assets/images/Menu - HUBUNGI KAMI.jpg" style="object-fit:cover">
 					</div>
-					<div class="content-descriptions">
+					<div class="content-descriptions" style="padding-bottom:0;">
 						<div class="top-content-right"></div>
 						<h3>Contact Us</h3>
 						<div style="margin-top:10px;">
 						<p>Untuk informasi lebih lanjut silahkan menghubungi kami.</p>
-
+						<form action="../contact-progress.php" method="post">
 						<div class="ui form">
 						  <div class="inline fields">
 						    <div class="sixteen wide field">
 						      <label>Name</label>
-						      <input type="text" placeholder="Nama" style="margin-left:-2px;">
+						      <input type="text" placeholder="Nama" name="yourname" style="margin-left:13px;">
 						    </div>
 						    </div>
 						    <div class="inline fields">
 							    <div class="sixteen wide field">
 							      <label>Email</label>
-							      <input type="text" placeholder="Email">
+							      <input type="text" name="email" placeholder="Email" style="margin-left:15px;">
 							    </div>
 						    </div>
 						    <div class="inline fields">	
 							    <div class="sixteen wide field">
 							      <label>Subject</label>
-							      <input type="text" placeholder="Subjek" style="margin-left:-5px;">
+							      <input type="text" placeholder="Subjek" name="subject" style="margin-left:5px;">
 							    </div>
 						    </div>
 						    <div class="inline fields">
 							    <div class="sixteen wide field">
 							      <label>Message</label>
-							      <textarea></textarea>
+							      <textarea name="comments"></textarea>
 							    </div>
 						    </div>
 						    <div style="text-align:right;margin-bottom:20px;">
-						    	<button class="ui button trigger" type="submit" onClick="window.location.reload()">Submit</button>
+						    	<button class="ui button trigger" type="submit" >Submit</button>
 						    </div>
 
 						    <div class="inline fields">
@@ -71,11 +65,10 @@
 							    	<span style="position:relative;left:35px;"><img src="../themes/default/assets/images/phone.png"></span>
 								    
 								</div>
-							</div>
-						    
-						    
-						    							    
+							</div>					    
 						  </div>
+
+						  </form>
 						</div>
 					</div>
 					<div class="ui grid" style="width:955px">

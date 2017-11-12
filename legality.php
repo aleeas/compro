@@ -20,14 +20,14 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
+						<img class="" src="themes/default/assets/images/Sub Menu TENTANG KAMI - LEGALITAS.jpg" style="object-fit:cover">
 					</div>
 					<div class="content-descriptions">
 						<div class="top-content-right"></div>
 						<h3>Legalitas Perusahaan</h3>
 						
 						<div class="ui list">
-						  <div class="ui grid">
+						  <div class="ui grid" style="font-size:12px;">
 						  	<div class="eight wide column">
 						  		<div class="item" style="margin-bottom: 20px;">
 								    <p style="margin-bottom: 5px">Nama Perusahaan</p>

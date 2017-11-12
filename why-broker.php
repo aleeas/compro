@@ -20,7 +20,7 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
+						<img class="" src="themes/default/assets/images/Sub Menu TENTANG KAMI - KENAPA BROKERS.jpg" style="object-fit:cover">
 						<blockquote style="bottom:0;"><p>Pialang Asuransi berbeda dengan Agen Asuransi. Pialang Asuransi bertindak atas kepentingan Nasabah (Tertanggung), sedangkan Agen Asuransi bertindak atas nama Perusahaan Asuransi. Agen Asuransi tidak terdaftar dan tidak dibawah pengawasan Otoritas Jasa Keuangan (OJK).</p></blockquote>
 					</div>
 					<div class="content-descriptions">
