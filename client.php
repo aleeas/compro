@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Demo Web</title>
+		<title>ARMS - PT. Alih Risiko Makna Sejahtera Insurance </title>
 		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/semantic.css">
 		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/flexslider.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/custom.css">
@@ -24,9 +24,9 @@
 						<blockquote><p>Komitmen kami adalah senantiasa menjaga hubungan baik
 						dengan para klien dalam memenuhi dan melayani kebutuhan asuransi serta dalam penyelesaian masalah klaim.</p>
 						</blockquote>
-						<div class="top-content-right-footer"></div>
+						
 					</div>
-					<div class="content-descriptions">
+					<div class="content-descriptions" style="padding-bottom:0;">
 						<div class="top-content-right"></div>
 						<h3>Klien Kami</h3>
 
@@ -92,11 +92,20 @@
 						  	</div>
 						</div>
 
-						<div class="top-content-left-footer"></div>
 						
 					</div>
+
+					<div class="ui grid" style="width:955px">
+						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
+						<div class="nine wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="divider-content"></div>
+
 				</div>
-				<div class="clearfix"></div>
+				
+				
 				<!-- <div class="top-content" style="margin-top:-64px;"></div> -->
 			</div>
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Demo Web</title>
+		<title>ARMS - PT. Alih Risiko Makna Sejahtera Insurance </title>
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/semantic.css">
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/custom.css">
@@ -16,13 +16,11 @@
 			</div>
 
 			<div class="content-others">
-				<div class="top-content"></div>
+				
 				<div class="content-inner">
-					<div class="content-images">
-						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
-					</div>
-					<div class="content-descriptions">
-						<h3>Functions (Benefits) of Insurance Brokers</h3>
+					<div class="content-images" style="width:427px;">
+						<div class="top-content-left"></div>
+						<h3 style="margin-left:20px;">Functions (Benefits) of Insurance Brokers</h3>
 						<div class="ui list">
 						  <div class="item">
 						    <span class="icon-text"><i class="checkmark icon"></i></span>
@@ -77,9 +75,12 @@
 						  
 
 						</div>
-
-						<div class="content-describer">
-							<h4>Advantages via Insurance Brokers</h4>
+						<!-- <img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover"> -->
+					</div>
+					<div class="content-descriptions" style="width:427px;">
+						<div class="top-content-right" style="width:476px;"></div>
+							<h3>Advantages via Insurance Brokers</h3>
+							<div style="margin-top:10px;font-size:12px;">
 							<p>
 							<span class="dropcat">Y</span>ou can save time and focus on developing & sustaining business. Because you have got the service package from
 							Insurance Brokers for free.</p>
@@ -88,7 +89,7 @@
 							collected during survey and from other information that has been given.</p>
 							
 							<p><span class="dropcat">Y</span>ou can get service in the following <br>terms: </p>
-							<div class="ui list" style="margin-left: 10%">
+							<div class="ui list">
 							  <div class="item"><p>a) Risk Analysis (Risk Management)</p></div>
 							  <div class="item"><p>b) Proposal on the insurance program that fits
  							  the need</p></div>
@@ -101,16 +102,20 @@
 							  <div class="item">
 							  	<p>i) Claim advocacy for problematic claim</p>
 							  </div>
-							</div>		
-
-
-						</div>						
+							</div>
+							</div>						
 						 
 						
 					</div>
+					<div class="ui grid" style="width:955px">
+						<div class="eight wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
+						<div class="eight wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="divider-content"></div>
 				</div>
-				<div class="clearfix"></div>
-				<div class="top-content" style="margin-top:-64px;"></div>
+				
 			</div>
 
 	        <?php include ("footer-en.php")  ?>

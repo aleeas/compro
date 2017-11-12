@@ -3,7 +3,7 @@
 		<!-- <img src="themes/default/assets/images/Logo ARMS-01.png" height="40">  -->
 		<div class="center-content">"We make your insurance needs to be Efficient, Effective and Reliable"</div>
 		<ul class="list-corporate">
-			<li><span>Terdaftar dan Diawasi oleh :</span></li>
+			
 			<li><a href="#!"><img src="themes/default/assets/images/OJK_Logo.png" height="30"></a></li>
 			<li><a href="#!"><img src="themes/default/assets/images/mari-berasuransi.png" height="30"></a></li>
 			<li><a href="#!"><img src="themes/default/assets/images/aparindo logo.jpg" height="30"></a></li>

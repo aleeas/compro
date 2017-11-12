@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Demo Web</title>
+		<title>ARMS - PT. Alih Risiko Makna Sejahtera Insurance </title>
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/semantic.css">
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/custom.css">
@@ -15,13 +15,18 @@
 			</div>
 			
 			<div class="content-others">
-				<div class="top-content"></div>
+				
 				<div class="content-inner">
 					<div class="content-images">
+						<div class="top-content-left"></div>
 						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
+						<blockquote><p>Insurance broker is different from insurance agent. Insurance broker represents on behalf of the insured’s interest, while insurance agent acts on behalf of the insurance company. 
+						Insurance agent does not need a license and operates under Financial Services Authority (OJK) supervision.</p></blockquote>
 					</div>
 					<div class="content-descriptions">
+						<div class="top-content-right"></div>
 						<h3>What Does Insurance Broker Mean?</h3>
+						<div style="margin-top:10px; font-size:12px;">
 						<p>Insurance Broker is a legal entity that is established in order to
 						fulfil society’s need of an entity that can assist them in buying
 						insurance products and advocate with claim reimbursement,
@@ -54,12 +59,19 @@
 						<p>Article 5 Verse 1 states that “Insurance Broker can only organize
 						business by representing the insured in transactions
 						related to insurance contract”. </p>
+						</div>
 
-						<blockquote><p>Insurance broker is different from insurance agent. Insurance broker represents on behalf of the insured’s interest, while insurance agent acts on behalf of the insurance company. Insurance agent does not need a license and operates under Financial Services Authority (OJK) supervision.</p></blockquote>
+						
 					</div>
+					<div class="ui grid" style="width:955px">
+						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
+						<div class="nine wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="divider-content"></div>
 				</div>
-				<div class="clearfix"></div>
-				<div class="top-content" style="margin-top:-64px;"></div>
+				
 			</div>
 
 	        <?php include ("footer-en.php")  ?>

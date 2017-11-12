@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Demo Web</title>
+		<title>ARMS - PT. Alih Risiko Makna Sejahtera Insurance </title>
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/semantic.css">
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/custom.css">

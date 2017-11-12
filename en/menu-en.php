@@ -34,9 +34,17 @@
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'legality.php'){echo 'active'; }else { echo ''; } ?>" href="legality.php">Legality</a>
 			    </div>
 			 </div></li>
-			 <li><a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'services.php'){echo 'active'; }else { echo ''; } ?>" href="services.php">
-			    Services
-			 </a></li>
+			 <li><div class="ui simple dropdown item">
+				Services
+			    <div class="menu menu-drop">
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-consultant.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-consultant.php">
+			      Insurance Consultants</a>
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-program.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-program.php">
+			      Insurance Program</a>	
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'claim-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="claim-advocacy.php">
+			      Claim Advocacy</a>						      
+			    </div>
+			 </div></li>
 			 <li><div class="ui simple dropdown item">
 			    Partner
 			    <div class="menu menu-drop">

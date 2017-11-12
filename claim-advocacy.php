@@ -9,11 +9,11 @@
 	<body>
 
 		<div class=" container-wrapper">
-		  	<?php include ("menu-bhs.php")  ?>
+		  	<?php include ("menu-bhs.php")  ?>	
 
-			<div class="ui container segment">
-			<?php include ("submenu-bhs.php")  ?>
-			</div>			
+		  	<div class="ui container segment">
+			<?php include ("submenu-bhs-services.php")  ?>
+			</div>		
 
 			<div class="content-others">
 				
@@ -24,12 +24,15 @@
 					</div>
 					<div class="content-descriptions">
 						<div class="top-content-right"></div>
-						<h3>Filosopi Kerja</h3>						
-						<div style="margin-top:10px;">
-						<p> Bekerja secara objektif, jujur dan kekeluargaan dalam mewujudkan
-						mekanisme kerja yang profesional dan bertanggungjawab di dalam suatu tim kerja, 
-						sehingga mampu memahami dan menganalisa kebutuhan nasabah serta peluang pasar secara tepat.</p>
-						</div>
+						<h3>Advokasi Klaim</h3>
+						<div style="margin-top:10px">
+							<p>Sebagai komitmen kami dalam memberikan pelayanan secara menyeluruh, melalui grup kami Robema 
+							Law &amp; Office, memberikan pelayanan advokasi klaim bilamana bermasalah.</p>
+							<div style="text-align:right">
+								<img src="themes/default/assets/images/Added-Value-logo.png" height="70">
+							</div>
+						</div>						
+												
 					</div>
 					<div class="ui grid" style="width:955px">
 						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
@@ -45,7 +48,8 @@
 	        <?php include ("footer.php")  ?>
 		</div>
 
-		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+	    crossorigin="anonymous"></script>
         <script src="themes/default/assets/js/semantic.js"></script>
         <script src="themes/default/assets/js/search.js"></script>
         

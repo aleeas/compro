@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Demo Web</title>
+		<title>ARMS - PT. Alih Risiko Makna Sejahtera Insurance </title>
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/semantic.css">
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/custom.css">
@@ -9,21 +9,25 @@
 	<body>
 
 		<div class=" container-wrapper">
-		  	<?php include ("menu-en.php")  ?>
-			
+		  	<?php include ("menu-en.php")  ?>	
+
+		  	<div class="ui container segment">
+			<?php include ("submenu-en-services.php")  ?>
+			</div>		
+
 			<div class="content-others">
-				<div class="top-content"></div>
+				
 				<div class="content-inner">
 					<div class="content-images">
+						<div class="top-content-left"></div>
 						<img class="" src="../themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
 					</div>
-					<div class="content-descriptions">
-						<h3>Layanan Kami</h3>
-						
-						<h4><i class="checkmark icon"></i> General Insurance Program</h4>
-						<div class="ui grid" style="margin-bottom: 20px;">
+					<div class="content-descriptions" style="padding-bottom:0;">
+						<div class="top-content-right"></div>
+						<h3>Insurance Program</h3>
+						<div class="ui grid" style="margin-bottom: 20px;margin-top:10px;font-size:12px;">
 							<div class="eight wide column">
-								<h5>Property Insurance</h5>
+								<h5>PROPERTY INSURANCE</h5>
 								<div class="ui ordered list">
 								  <span class="item">Fire Insurance</span>
 								  <span class="item">Home Insurance</span>
@@ -32,7 +36,7 @@
 								  <span class="item">Earthquake Insurance</span>
 								</div>
 
-								<h5>Engineering Insurance</h5>
+								<h5>ENGINEERING INSURANCE</h5>
 								<div class="ui ordered list">
 								  <span class="item">Contractors All Risks</span>
 								  <span class="item">Erection All Risks</span>
@@ -41,7 +45,7 @@
 								  <span class="item">Machinery Breakdown</span>
 								</div>
 
-								<h5>Miscellaneous</h5>
+								<h5>MISCELLANOUS INSURANCE</h5>
 								<div class="ui ordered list">
 								  <span class="item">Burgary</span>
 								  <span class="item">Money Insurance</span>
@@ -51,37 +55,36 @@
 								  <span class="item">Travel Insurance</span>
 								</div>
 
-								<h5>Cargo Insurance</h5>
+								<h5>CARGO INSUIRANCE</h5>
 								<div class="ui ordered list">
 								  <span class="item">Marine Cargo Insurance</span>
 								  <span class="item">Air Cargo Insurance</span>
 								  <span class="item">Land in Transit Insurance</span>
 								  <span class="item">Marine Hull</span>
-								  <span class="item">P&I</span>
-								  
+								  <span class="item">P&amp;I</span>
 								</div>
 
+								
 							</div>
 
 							<div class="eight wide column">
-								<h5>Liability Insurance</h5>
+								<h5>LIABILITY INSURANCE</h5>
 								<div class="ui ordered list">
-								  <span class="item">Asuransi Public Liability</span>
-								  <span class="item">Asuransi Product Liability</span>
-								  <span class="item">Asuransi Comprehensive General Liability (CGL)</span>
-								  <span class="item">Asuransi Automobile Liability</span>
-								  <span class="item">Asuransi Workmens Compensation</span>
-								  <span class="item">Asuransi Employers Liability</span>
+								  <span class="item">Public Liability</span>
+								  <span class="item">Product Liability</span>
+								  <span class="item">Comprehensive General Liability (CGL)</span>
+								  <span class="item">Automobile Liability</span>
+								  <span class="item">Workmens Compensation</span>
+								  <span class="item">Employers Liability</span>
 								</div>
 
-								<h5>Motor Vehicle Insurance</h5>
+								<h5>MOTOR VEHICLE INSURANCE</h5>
 								<div class="ui ordered list">
 								  <span class="item">Comprehensive/All Risk</span>
 								  <span class="item">Total Loss Only - TLO	</span>								  						 
 								</div>
-								
 
-								<h5>Credit & Surety Bond / Guarantee</h5>
+								<h5>CREDIT &amp; SURETY BOND</h5>
 								<div class="ui ordered list">
 								  <span class="item">Bid Bond</span>
 								  <span class="item">Advance Payment Bond</span>
@@ -92,22 +95,24 @@
 								</div>
 							</div>
 						</div>
-
-
-						<h4><i class="checkmark icon"></i> Insurance &amp; Claim Consultant </h4>
-						<h4><i class="checkmark icon"></i> Risk Management</h4>
-						<h4><i class="checkmark icon"></i> Claim Advocacy</h4>
 						
 					</div>
+					<div class="ui grid" style="width:955px">
+						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
+						<div class="nine wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
+					</div>
+					<div class="clearfix"></div>
+
+					<div class="divider-content"></div>
 				</div>
-				<div class="clearfix"></div>
-				<div class="top-content" style="margin-top:-64px;"></div>
+				
 			</div>
 
 	        <?php include ("footer-en.php")  ?>
 		</div>
 
-		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+	    crossorigin="anonymous"></script>
         <script src="../themes/default/assets/js/semantic.js"></script>
         <script src="../themes/default/assets/js/search.js"></script>
         

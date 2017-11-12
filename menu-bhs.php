@@ -44,7 +44,7 @@
 						    <div class="menu menu-drop">
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-consultant.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-consultant.php">
 						      		Konsultan Asuransi</a>
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-program.php'){echo 'active'; }else { echo ''; } ?>" href="insurance.php">Program Asuransi</a>	
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-program.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-program.php">Program Asuransi</a>	
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'claim-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="claim-advocacy.php">Advokasi Klaim</a>						      
 						    </div>
 						 </div></li>

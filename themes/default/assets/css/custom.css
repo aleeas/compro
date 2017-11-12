@@ -68,7 +68,7 @@ ul.menu-clear li{
 	display: inline-block;
 }
 .flex-caption {
-    width: 300px;
+    width: 280px;
     position: absolute;
     height: 100%;
     padding: 0;
@@ -82,7 +82,7 @@ ul.menu-clear li{
 }
 
 .flex-caption h3{
-	font-size: 3rem;
+	font-size: 2rem;
 }
 #logo-top{
 	max-width: 219px;
@@ -112,15 +112,17 @@ li.css a {
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 10px;
-    min-height:200px;
+    min-height:260px;
     border: 1px solid #f3f3f3;
+    float: left;
+    position: relative;
 } 
 
 .carousel-card-content{
     width: 151px;
     float: right;
     font-size: 12px;
-    
+    margin-left: 9px;
 }
 
 .right-align{
@@ -131,6 +133,9 @@ li.css a {
     color: #fff;
     padding: 5px;
     border-radius: 5px;
+    position: absolute;
+    right: 10px;
+    bottom: 15px;
 }
 .read-more:hover{
 	background: #fff;
@@ -179,6 +184,7 @@ li.css a {
 
 .list-corporate{
 	list-style-type: none;
+    text-align: right;
 }
 .list-corporate li{
 	display: inline-block;
@@ -222,15 +228,18 @@ li.css a {
 }
 .top-content-right-footer{
     background: rgba(36,64,98, 1);
-    height: 60px;
-    margin-top: -67px;    
+    height: 60px;  
 }
 
 .content-images{
     display: block;
+    position: relative;
     width: 389px;
     height: auto;
     float: left;
+}
+.content-images p{
+    color: #888;
 }
 .ui.breadcrumb {
     font-size: 0.9rem;
@@ -240,7 +249,7 @@ li.css a {
     position: relative;
     z-index: -1;
     width: 100%;
-    min-height: 556px;
+    min-height: 514px;
 }
 .content-descriptions {
     width: 460px;
@@ -263,8 +272,8 @@ li.css a {
     margin-top: 5px;
 }*/
 
-.content-descriptions h3 {
-    font-size: 1.6rem;
+.content-descriptions h3, .content-images h3 {
+    font-size: 1.3rem;
     color: #fff;
     margin-bottom: 0;
     margin-top: 5px;
@@ -310,11 +319,11 @@ span.icon-text{
 blockquote {
     background: #f9f9f9;
     /* border-left: 10px solid #ccc; */
-    margin: -78px 0;
+    margin: 0 0;
     padding: 0.5em 20px;
     quotes: "\201C""\201D""\2018""\2019";
     position: absolute;
-    bottom: 170px;
+    bottom: 0;
     max-width: 389px;
 }
 blockquote:before {

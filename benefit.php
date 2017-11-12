@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Demo Web</title>
+		<title>ARMS - PT. Alih Risiko Makna Sejahtera Insurance </title>
 		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/semantic.css">
 		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/flexslider.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="themes/default/assets/css/custom.css">
@@ -16,13 +16,11 @@
 			</div>			
 
 			<div class="content-others">
-				<div class="top-content"></div>
+				<!-- <div class="top-content"></div> -->
 				<div class="content-inner">
-					<div class="content-images">
-						<img class="" src="themes/default/assets/images/wireframe-img.png" style="object-fit:cover">
-					</div>
-					<div class="content-descriptions">
-						<h3>Fungsi (Manfaat) Pialang Asuransi</h3>
+					<div class="content-images" style="width:427px;">
+					 <div class="top-content-left"></div>
+					 	<h3 style="margin-left:20px;">Apa yang dimaksud Pialang/Broker Asuransi?</h3>
 						<div class="ui list">
 						  <div class="item">
 						    <span class="icon-text"><i class="checkmark icon"></i></span>
@@ -81,58 +79,63 @@
 						  </div>
 
 						</div>
+						<!-- <img class="" src="themes/default/assets/images/wireframe-img.png" style="object-fit:cover"> -->
+						
+					 
+					</div>
+					<div class="content-descriptions" style="width:427px;">
+						<div class="top-content-right" style="width:476px;"></div>
+						<h3>Keuntungan via Pialang/Broker</h3>
+						<div style="margin-top:10px;font-size:12px;">
+						<p>
+						<span class="dropcat">A</span>nda dapat menghemat waktu dan fokus pada pengembangan
+						usaha &amp; kelanjutan kegiatan usaha. Karena anda
+						telah mendapat paket pelayanan dari Broker Asuransi secara
+						cuma-cuma.</p>
 
-						<div class="content-describer">
-							<h4>Keuntungan via Pialang/Broker</h4>
-							<p>
-							<span class="dropcat">A</span>nda dapat menghemat waktu dan fokus pada pengembangan
-							usaha &amp; kelanjutan kegiatan usaha. Karena anda
-							telah mendapat paket pelayanan dari Broker Asuransi secara
-							cuma-cuma.</p>
-
-							<p><span class="dropcat">A</span>nda cukup memberikan informasi yang diperlukan, tanpa
-							harus mengisi lembar aplikasi asuransi. Karena telah dipersiapkan
-							oleh broker asuransi berdasarkan data yang diperoleh
-							dari hasil survey dan dari informasi yang telah diberikan.</p>
-							
-							<p><span class="dropcat">A</span>nda dapat memperoleh pelayanan dalam hal sebagai <br>
-							berikut : </p>
-							<div class="ui list" style="margin-left: 10%">
-							  <div class="item"><p>a) Analisa risiko</p></div>
-							  <div class="item"><p>b) Proposal tentang Program Asuransi yang sesuai
-						 	  dengan kebutuhan</p></div>
-							  <div class="item"><p>c) Pencegahan kerugian</p></div>
-							  <div class="item"><p>d) Penempatan asuransi yang aman dengan
-							  persyaratan seluas dan sebaik mungkin dengan
-							  premi sewajar dan se-ekonomis mungkin</p></div>
-							  <div class="item"><p>e) Pemeriksaan polis dengan cermat</p></div>		
-							  <div class="item"><p>f) Penyerahan polis dan kuitansi</p></div>
-							  <div class="item"><p>g) Memberikan penjelasan atas hal-hal yang
-						      penting (tentang luas pertanggungan)</p></div>
-							  <div class="item"><p>h) Pelayanan bantuan menyelesaikan urusan klaim
-						 	  dengan Penanggung (Asuransi)</p></div>
-							  <div class="item">
-							  	<p>i) Advokasi klaim (untuk klaim bermasalah)</p>
-							  </div>
-							</div>		
-
+						<p><span class="dropcat">A</span>nda cukup memberikan informasi yang diperlukan, tanpa
+						harus mengisi lembar aplikasi asuransi. Karena telah dipersiapkan
+						oleh broker asuransi berdasarkan data yang diperoleh
+						dari hasil survey dan dari informasi yang telah diberikan.</p>
+						
+						<p><span class="dropcat">A</span>nda dapat memperoleh pelayanan dalam hal sebagai <br>
+						berikut : </p>
+						<div class="ui list">
+						  <div class="item"><p>a) Analisa risiko</p></div>
+						  <div class="item"><p>b) Proposal tentang Program Asuransi yang sesuai
+					 	  dengan kebutuhan</p></div>
+						  <div class="item"><p>c) Pencegahan kerugian</p></div>
+						  <div class="item"><p>d) Penempatan asuransi yang aman dengan
+						  persyaratan seluas dan sebaik mungkin dengan
+						  premi sewajar dan se-ekonomis mungkin</p></div>
+						  <div class="item"><p>e) Pemeriksaan polis dengan cermat</p></div>		
+						  <div class="item"><p>f) Penyerahan polis dan kuitansi</p></div>
+						  <div class="item"><p>g) Memberikan penjelasan atas hal-hal yang
+					      penting (tentang luas pertanggungan)</p></div>
+						  <div class="item"><p>h) Pelayanan bantuan menyelesaikan urusan klaim
+					 	  dengan Penanggung (Asuransi)</p></div>
+						  <div class="item">
+						  	<p>i) Advokasi klaim (untuk klaim bermasalah)</p>
+						  </div>
 
 						</div>
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						 
+						</div>
+
 						
 					</div>
+
+					<div class="clearfix"></div>
+
+					<div class="ui grid" style="width:955px">
+						<div class="eight wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
+						<div class="eight wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
+					</div>
+					
+					<div class="divider-content"></div>
+					
 				</div>
-				<div class="clearfix"></div>
-				<div class="top-content" style="margin-top:-64px;"></div>
+				
+				
 			</div>
 
 	        <?php include ("footer.php")  ?>
