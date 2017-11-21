@@ -112,7 +112,7 @@ li.css a {
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 10px;
-    min-height:260px;
+    min-height:180px;
     border: 1px solid #f3f3f3;
     float: left;
     position: relative;
@@ -124,21 +124,24 @@ li.css a {
     font-size: 12px;
     margin-left: 9px;
 }
-
+.carousel-card-content p{
+    max-height: 55px;
+    overflow: hidden;
+}
 .right-align{
 	text-align: right;
 }
-.read-more{
-	background: rgb(0,32,96);
-    color: #fff;
+.read-more {
+    color: #2f2f2f;
     padding: 5px;
     border-radius: 5px;
     position: absolute;
     right: 10px;
     bottom: 15px;
+    font-size: 1rem;
+    font-style: italic;
 }
 .read-more:hover{
-	background: #fff;
 	color: rgb(0,32,96);
 }
 
@@ -174,11 +177,15 @@ li.css a {
     max-width: 350px;
     float: left;
     text-align: left;
-    margin: 20px 10px;
+    margin: 0px 10px;
     font-size: 13px;
     color: #888;
     font-weight: bold;
     vertical-align: middle;
+}
+
+.footer-content .center-content .adreess-added{
+    font-size: 11px;
 }
 
 

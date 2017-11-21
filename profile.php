@@ -36,6 +36,10 @@
 						Kami mendengarkan dengan cermat dan memahami kebutuhan klien. Hal ini menjadi titik perbedaan kami untuk dan dalam meningkatkan kepuasan serta kepercayaan klien/nasabah.</p>
 
 						<p> Layanan utama kami adalah dibidang Pialang Asuransi, Manajemen Risiko, Konsultan Klaim, dan Advokasi Asuransi (Klaim).</p>
+
+						<p> Bekerja secara objektif, jujur dan kekeluargaan dalam mewujudkan mekanisme kerja yang profesional dan bertanggungjawab di dalam suatu tim kerja, 
+						sehingga mampu memahami dan menganalisa kebutuhan nasabah serta peluang pasar secara tepat.</p>
+						
 						</div>
 					</div>
 					<div class="ui grid" style="width:955px">

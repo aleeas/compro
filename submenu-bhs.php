@@ -1,8 +1,6 @@
 <div class="ui breadcrumb">
 <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'why-broker.php'){echo 'active'; }else { echo ''; } ?>" href="why-broker.php">Kenapa Broker</a>
 <i class="right angle icon divider"></i>
-<a class="<?php if(basename($_SERVER['SCRIPT_NAME']) == 'benefit.php'){echo 'active'; }else { echo ''; } ?> section" href="benefit.php">Manfaat Broker</a>
-<i class="right angle icon divider"></i>
 <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profil</a>
 <i class="right angle icon divider"></i>
 <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Visi &amp; Missi</a>

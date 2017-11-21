@@ -37,6 +37,9 @@
 
 						<p>Our primary services are Insurance Broker, Risk Management,
 						Claim Consultant, Insurance Recovery and Specialist Insurance Advocate.</p>
+
+						<p>Working objectively, honestly and familiarially in realizing professional and responsible working mechanisms within the
+						work team, so as to understand and analyze customer needs and market opportunities correctly</p>
 						</div>
 					</div>
 					<div class="ui grid" style="width:955px">

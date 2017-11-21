@@ -20,10 +20,7 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="themes/default/assets/images/Sub Menu MITRA - KLIEN.jpg" style="object-fit:cover">
-						<blockquote><p>Komitmen kami adalah senantiasa menjaga hubungan baik
-						dengan para klien dalam memenuhi dan melayani kebutuhan asuransi serta dalam penyelesaian masalah klaim.</p>
-						</blockquote>
+						<img class="" src="themes/default/assets/images/Sub Menu MITRA - KLIEN - (IND).jpg" style="object-fit:contain">
 						
 					</div>
 					<div class="content-descriptions" style="padding-bottom:0;">
@@ -31,7 +28,7 @@
 						<h3>Klien Kami</h3>
 
 						<div class="ui grid list-client" style="margin-bottom: 20px;margin-top: 10px;">
-						  	<div class="five wide column">
+						  	<div class="six wide column" style="padding:0">
 					  	    <div class="ui list">
 							    <div class="item"><p>PT. Permata Hijau Group </p></div>
 							    <div class="item"><p>PT. Industri Sandang Nusantara (Persero) </p></div>
@@ -51,7 +48,7 @@
 							</div>
 						  	</div>
 
-						  	<div class="five wide column">
+						  	<div class="five wide column" style="padding:0">
 						  		<div class="ui list">
 								  <div class="item"><p>PT. Indah Logistik &amp; Grup</p></div>
 								  <div class="item"><p>PT. Wijaya Karya</p></div>
@@ -71,7 +68,7 @@
 								</div>
 						  	</div>
 
-						  	<div class="five wide column">
+						  	<div class="five wide column" style="padding:0">
 						  		<div class="ui list">
 						  			<div class="item"><p>PT. Indopasific Sheraton</p></div>
 									<div class="item"><p>PT. Pancaran Samudera Transport</p></div>
@@ -90,6 +87,7 @@
 									<div class="item"><p>PT. Graham Packaging Indonesia</p></div>
 						  		</div>
 						  	</div>
+						  	<p style="font-size: 11px; padding: 0; margin: 20px 0; font-weight: 700;">Dan klien korporasi serta individual lainnya...</p>
 						</div>
 
 						

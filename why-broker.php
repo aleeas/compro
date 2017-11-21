@@ -20,13 +20,12 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="themes/default/assets/images/Sub Menu TENTANG KAMI - KENAPA BROKERS.jpg" style="object-fit:cover">
-						<blockquote style="bottom:0;"><p>Pialang Asuransi berbeda dengan Agen Asuransi. Pialang Asuransi bertindak atas kepentingan Nasabah (Tertanggung), sedangkan Agen Asuransi bertindak atas nama Perusahaan Asuransi. Agen Asuransi tidak terdaftar dan tidak dibawah pengawasan Otoritas Jasa Keuangan (OJK).</p></blockquote>
+						<img class="" src="themes/default/assets/images/Sub Menu TENTANG KAMI - KENAPA BROKERS (IND).jpg">						
 					</div>
 					<div class="content-descriptions">
 						<div class="top-content-right"></div>
 						<h3>Apa yang dimaksud Pialang/Broker Asuransi?</h3>
-						<div style="margin-top:10px;font-size:11px;">
+						<div style="margin-top:10px;font-size:12px;">
 						<p>Pialang Asuransi atau Broker Insurance adalah suatu badan
 						hukum yang dibentuk dalam rangka memenuhi kebutuhan
 						masyarakat akan suatu badan hukum yang dapat membantu

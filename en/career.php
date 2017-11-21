@@ -23,7 +23,7 @@
 						<div class="top-content-right"></div>
 						<h3>Career</h3>
 						<div style="margin-top:10px;">
-						<address>
+						<address style="font-style: normal;">
 							Please send your application letter and CV by email to :<br>
 							hrd@armsbrokers.com<br>
 							or<br>

@@ -24,7 +24,7 @@
 						<div class="top-content-right"></div>
 						<h3>Karir</h3>
 						<div style="margin-top:10px;">
-						<address>
+						<address style="font-style: normal;">
 							Kirimkan surat lamaran dan CV anda via email ke : <br>
 							hrd@armsbrokers.com <br>
 							atau <br>

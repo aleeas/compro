@@ -20,17 +20,15 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="../themes/default/assets/images/Sub Menu MITRA - KLIEN.jpg" style="object-fit:cover">
-						<blockquote><p>Our commitment is always to maintain good relationships with clients
-						and serving the needs of insurance and in resolving claims problems.</p>
-						</blockquote>
+						<img class="" src="../themes/default/assets/images/Sub Menu MITRA - KLIEN - (ENG).jpg" style="object-fit:contain">
+						
 					</div>
 					<div class="content-descriptions">
 						<div class="top-content-right"></div>
 						<h3>Our Client</h3>
 
 						<div class="ui grid list-client" style="margin-bottom: 20px;margin-top: 10px;">
-						  	<div class="five wide column">
+						  	<div class="six wide column" style="padding:0">
 					  	    <div class="ui list">
 							    <div class="item"><p>PT. Permata Hijau Group </p></div>
 							    <div class="item"><p>PT. Industri Sandang Nusantara (Persero) </p></div>
@@ -50,7 +48,7 @@
 							</div>
 						  	</div>
 
-						  	<div class="five wide column">
+						  	<div class="five wide column" style="padding:0">
 						  		<div class="ui list">
 								  <div class="item"><p>PT. Indah Logistik &amp; Grup</p></div>
 								  <div class="item"><p>PT. Wijaya Karya</p></div>
@@ -70,7 +68,7 @@
 								</div>
 						  	</div>
 
-						  	<div class="five wide column">
+						  	<div class="five wide column" style="padding:0">
 						  		<div class="ui list">
 						  			<div class="item"><p>PT. Indopasific Sheraton</p></div>
 									<div class="item"><p>PT. Pancaran Samudera Transport</p></div>
@@ -90,9 +88,9 @@
 									
 						  		</div>
 						  	</div>
-
+						  	<p style="font-size: 11px; padding: 0;margin: 20px 0;font-weight: 700;">And other corporate and individual clients...</p>
 						</div>
-						<p style="text-align: center;">and other corporate and individual clients...</p>
+						
 					</div>
 					<div class="ui grid" style="width:955px">
 						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>

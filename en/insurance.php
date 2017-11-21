@@ -26,13 +26,82 @@
 						<div class="top-content-right"></div>
 						<h3>Insurance Company</h3>
 
-						<h4>Local Insurance Company</h4>
+						<h4>GENERAL INSURANCE :</h4>
+						<div class="ui grid list-client" style="margin-bottom: 20px;margin-top: 10px;margin-left:0">
+						  	<div class="six wide column" style="padding:0">
+						  	    <div class="ui list">				  	    	
 
-						<div><img src="../themes/default/assets/images/client.jpg" width="100%"></div>
+									 <div class="item"><p>PT. Asuransi Asei Indonesia</p></div>
+									 <div class="item"><p>PT. Asuransi Kredit Indonesia</p></div>
+									 <div class="item"><p>PT. Asuransi Adira Dinamika</p></div>
+									 <div class="item"><p>PT. Artha Graha General Ins</p></div>
+									 <div class="item"><p>PT. Asuransi Astra Buana</p></div>
+									 <div class="item"><p>PT. Asuransi AXA Indonesia</p></div>
+									 <div class="item"><p>PT. Bess Central Insurance</p></div>
+									 <div class="item"><p>PT. Asuransi Bhakti Bhayangkara</p></div>
+									 <div class="item"><p>PT. Asuransi Bintang, Tbk</p></div>
+									 <div class="item"><p>PT. Asuransi Cakrawala Proteksi</p></div>
+									 <div class="item"><p>PT. Asuransi Central Asia</p></div>
+									 <div class="item"><p>PT. Chubb Insurance</p></div>
+									 <div class="item"><p>PT. Asuransi Eka Lloyd Jaya</p></div>
+									 <div class="item"><p>PT. Asuransi Harta Aman Pratama, Tbk</p></div>
+								   
+								</div>
+						  	</div>
 
-						<h4>Joint Venture Insurance Company</h4>
+						  	<div class="five wide column" style="padding:0">
+						  		<div class="ui list">
+								  	<div class="item"><p>PT. Asuransi Intra Asia</p></div>
+									<div class="item"><p>PT. Asuransi Jasa Tania, Tbk</p></div>
+									<div class="item"><p>PT. Asuransi Jasaraharja Putera</p></div>
+									<div class="item"><p>PT. Asuransi Jasa Indonesia</p></div>
+									<div class="item"><p>PT. KB Insurance</p></div>
+									<div class="item"><p>PT. KSK Insurance Indonesia</p></div>
+									<div class="item"><p>PT. Lippo General Ins, Tbk</p></div>
+									<div class="item"><p>PT. Asuransi Mega Pratama</p></div>
+									<div class="item"><p>PT. Asuransi Kresna Mitra, Tbk</p></div>
+									<div class="item"><p>PT. Asuransi Mitra Pelindung Mustika</p></div>
+									<div class="item"><p>PT. MNC Asuransi Indonesia</p></div>
+									<div class="item"><p>PT. Asuransi Multi Artha Guna (Fairfax Company), Tbk</p></div>
+									<div class="item"><p>PT. Asuransi MSIG Indonesia</p></div>
+									<div class="item"><p>PT. Asuransi Pan Pasific Insurance</p></div>
+								</div>
+						  	</div>
 
-						<div><img src="../themes/default/assets/images/venture.jpg" width="100%"></div>
+						  	<div class="five wide column" style="padding:0">
+						  		<div class="ui list">
+						  			<div class="item"><p>PT. Asuransi QBE Pool Indonesia</p></div>
+									<div class="item"><p>PT. Asuransi Raksa Pratikara</p></div>
+									<div class="item"><p>PT. Asuransi Rama Satria Wibawa</p></div>
+									<div class="item"><p>PT. Asuransi Ramayana, Tbk</p></div>
+									<div class="item"><p>PT. Asuransi Recapital Reguard</p></div>
+									<div class="item"><p>PT. Asuransi Reliance Indonesia</p></div>
+									<div class="item"><p>PT. Asuransi Sinarmas</p></div>
+									<div class="item"><p>PT. Asuransi Staco Mandiri</p></div>
+									<div class="item"><p>PT. Asuransi Tokio Marine Ind.</p></div>
+									<div class="item"><p>PT. Asuransi Tri Pakarta</p></div>
+									<div class="item"><p>PT. Asuransi Tugu Kresna Pratama</p></div>
+									<div class="item"><p>PT. Victoria Insurance</p></div>
+									<div class="item"><p>PT. Asuransi Wahana Tata</p></div>
+									<div class="item"><p>PT. Zurich Ins. Ind.</p></div>
+						  		</div>
+						  	</div>
+						  	
+						</div>						
+
+
+						<h4>LIFE INSURANCE :</h4>
+
+						<div class="ui grid list-client" style="margin-bottom: 20px;margin-top: 10px;margin-left:0">
+							<div class="six wide column" style="padding:0">
+						  	    <div class="ui list">
+								 	<div class="item"><p>PT. BNI Life Insurance</p></div>
+									<div class="item"><p>PT. AJS Jasa Mitra Abadi</p></div>
+									<div class="item"><p>PT. Hanwha Life Insurance Indonesia</p></div>
+								</div>
+						  	</div>
+
+						</div>
 					</div>
 					<div class="ui grid" style="width:955px">
 						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>

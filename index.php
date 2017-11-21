@@ -14,32 +14,36 @@
 
 			<div class="flexslider">
 	          <ul class="slides">
-	            <li>
-	  	    	    <img src="themes/default/assets/images/Sub Menu PELAYANAN - KONSULTAN ASURANSI.jpg" />
+	            	<li>
+	  	    	    <img src="themes/default/assets/images/BERANDA SLIDE ATAS - KONSULTAN ASURANSI.jpg" />
 	              	<div class="flex-caption">
 	              		<div id="logo-caption"><img src="themes/default/assets/images/Logo ARMS-01.png"></div>
 	              		<h3>KONSULTAN ASURANSI</h3>
-	              		<p>Providing insurance services from the initial process of planning the insurance program, placement of insurance, 
-	              		claims management (claim management service) until the insurance policy issued and received by the customer. 
-	              		And handling all the administration.</p>
+	              		<p>Memberikan pelayanan & pendampingan asuransi dari proses awal analisa risiko, penempatan asuransi, penanganan klaim hingga polis asuransi terbit & diterima oleh nasabah.</p>
 	              	</div>
 	  	    		</li>
 	  	    		<li>
-	  	    	    <img src="themes/default/assets/images/Sub Menu PELAYANAN - PROGRAM ASURANSI.jpg" />
+	  	    	    <img src="themes/default/assets/images/BERANDA SLIDE ATAS - MANAJEMEN ASURANSI.jpg" />
 	              	<div class="flex-caption">
 	              		<div id="logo-caption"><img src="themes/default/assets/images/Logo ARMS-01.png"></div>
-	              		<h3>PROGRAM ASURANSI</h3>
-	              		<p>Serving & designing all Insurance needs against objects / assets that require protection against any risks that may occur. 
-	              		We conduct risk identification so as to provide competitive insurance program &amp; as needed by using the best insurance company.</p>
+	              		<h3>MANAJEMEN ASURANSI</h3>
+	              		<p>Layanan kami hingga pada penanganan administrasi & manajemen asuransi melalui sistem yang ada. Sehingga nasabah tidak lagi direpotkan oleh urusan dokumentasi, waktu dan proses asuransi.</p>
 	              	</div>
 	  	    		</li>
 	  	    		<li>
-	  	    	    <img src="themes/default/assets/images/Sub Menu PELAYANAN - ADVOKASI KLAIM.jpg" />
+	  	    	    <img src="themes/default/assets/images/BERANDA SLIDE ATAS - KONSULTAN KLAIM.jpg" />
 	              	<div class="flex-caption">
 	              		<div id="logo-caption"><img src="themes/default/assets/images/Logo ARMS-01.png"></div>
-	              	 	<h3>ADVOKASI KLAIM</h3>
-	              	 	<p>Our commitment in providing comprehensive services, by providing legal assistance and advocacy services to the point where the claims are problematic. 
-	              	 	We are assisted by our group &amp; partner, Robema Law Firm. </p>
+	              		<h3>KONSULTAN KLAIM</h3>
+	              		<p>Memberikan pelayanan & pendampingan klaim asuransi dari proses awal pelaporan, hingga pada keputusan klaim.</p>
+	              	</div>
+	  	    		</li>
+	  	    		<li>
+	  	    	    <img src="themes/default/assets/images/BERANDA SLIDE ATAS - ADVOKASI ASURANSI.jpg" />
+	              	<div class="flex-caption">
+	              		<div id="logo-caption"><img src="themes/default/assets/images/Logo ARMS-01.png"></div>
+	              	 	<h3>ADVOKASI ASURANSI</h3>
+	              	 	<p>Komitmen kami memberikan pelayanan menyeluruh dengan memberikan juga pelayanan pendampingan hukum dan advokasi untuk permasalahan klaim, subrogasi dan lain-lain. Partner kami yaitu, Robema Law Firm.</p>
 	              	</div>
 	  	    		</li>
 	  	    		
@@ -53,11 +57,11 @@
 	          <ul class="slides">
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="themes/default/assets/images/Beranda - Asuransi Kendaraan Bermotor.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/61_1small-liability.png">
+		            		<img src="themes/default/assets/images/Beranda - Asuransi Kebakaran.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/61_1small-liability.png">
 		            		<div class="carousel-card-content">
-		            			<h5>MOTOR VEHICLE INSURANCE</h5>
-		            			<p>Providing guarantees of protection against motor vehicles and third parties and drivers and passengers against the risk of loss due to collision, slipping, burning and theft.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
+		            			<h5>Asuransi Harta Benda</h5>
+		            			<p>: Asuransi Kebakaran, Asuransi Industrial/Property All Risks, Asuransi Gempa Bumi, Asuransi Sabotase & Terorisme & Lainnya.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -65,73 +69,48 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="themes/default/assets/images/Beranda - Asuransi Pengangkutan Barang.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/62_1heavy-equipment2.jpg">
+		            		<img src="themes/default/assets/images/Beranda - Asuransi Kendaraan Bermotor.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/62_1heavy-equipment2.jpg">
 		            		<div class="carousel-card-content">
-		            			<h5>MARINE CARGO INSURANCE</h5>
-		            			<p>Provide assurance of protection of goods or property when transported by land, sea and air transport against various risks.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
+		            			<h5>Asuransi Kendaraan Bermotor</h5>
+		            			<p>Asuransi Kerugian Partial & Asuransi Kerugian Total.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
 		            			
 		            		</div>
 	            		</div>
 	            	</li>
-
-
-	            	<li>
-	            		<div class="carousel-card">
-		            		<img src="themes/default/assets/images/Beranda - Asuransi Konsruksi.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/63_1small-alatberat.png">
-		            		<div class="carousel-card-content">
-		            			<h5>ENGINEERING INSURANCE</h5>
-		            			<p>Provide assurance of protection for the construction of buildings under construction or machinery being installed against the risk of loss due to fire, collapse, earthquake, and flood.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
-		            			
-		            		</div>
-	            		</div>
-	            	</li>
-
-	            	<li>
-	            		<div class="carousel-card">
-		            		<img src="themes/default/assets/images/Beranda - Asuransi Kebakaran.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
-		            		<div class="carousel-card-content">
-		            			<h5>FIRE INSURANCE</h5>
-		            			<p>Provide assurance of the protection of buildings / property against the risk of loss due to fire, lightning strike, blasting, falling plane and various other loss risks in accordance with the expansion.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
-		            			
-		            		</div>
-	            		</div>
-	            	</li>
-
-	            	<li>
-	            		<div class="carousel-card">
-		            		<img src="themes/default/assets/images/Beranda - Asuransi Kecelakaan Diri.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
-		            		<div class="carousel-card-content">
-		            			<h5>PERSONAL ACCIDENT INSURANCE</h5>
-		            			<p>Provide assurance of cost compensation against individuals or groups against the risks of accidents that cause death, permanent / temporary disability, bodily injuries requiring treatment and care.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
-		            			
-		            		</div>
-	            		</div>
-	            	</li>
-
-	            	<li>
-	            		<div class="carousel-card">
-		            		<img src="themes/default/assets/images/Beranda - Asuransi Rangka Kapa.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
-		            		<div class="carousel-card-content">
-		            			<h5>MARINE HULL INSURANCE</h5>
-		            			<p>Provide assurance of protection on the framework of the ship and its propulsion engine against the risk of damage / loss. And against the possibility of third party claims due or related to the activities undertaken.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
-		            			
-		            		</div>
-	            		</div>
-	            	</li>
-
 
 	            	<li>
 	            		<div class="carousel-card">
 		            		<img src="themes/default/assets/images/Beranda - Asuransi Alat Berat.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
 		            		<div class="carousel-card-content">
-		            			<h5>HEAVY EQUIPMENT INSURANCE</h5>
-		            			<p>Provide assurance of the protection of heavy equipment supporting your business against loss or damage to heavy equipment such as tractors, excavators, bulldozers, cranes and the like, as a result of an accident risk.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
+		            			<h5>Asuransi Rekayasa</h5>
+		            			<p>Asuransi Konstruksi, Asuransi Pemasangan Mesin, Asuransi Alat Berat, Asuransi Peralatan Elektronik, Asuransi Mesin & Lainnya.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
+		            			
+		            		</div>
+	            		</div>
+	            	</li>
+
+
+	            	<li>
+	            		<div class="carousel-card">
+		            		<img src="themes/default/assets/images/Beranda - Asuransi Kredit.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/63_1small-alatberat.png">
+		            		<div class="carousel-card-content">
+		            			<h5>Asuransi Kredit & Penjaminan</h5>
+		            			<p>Jaminan Penawaran, Jaminan Uang Muka, Jaminan Pelaksanaan, Jaminan Pemeliharaan, Jaminan Kontra Bank Garansi, Asuransi Kredit & Lainnya.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
+		            			
+		            		</div>
+	            		</div>
+	            	</li>
+
+	            	<li>
+	            		<div class="carousel-card">
+		            		<img src="themes/default/assets/images/Beranda - Asuransi Pengangkutan Barang.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
+		            		<div class="carousel-card-content">
+		            			<h5>Asuransi Kapal & Kargo</h5>
+		            			<p>Asuransi Pengangkutan Barang Laut, Asuransi Pengangkutan Barang Udara, Asuransi Pengangkutan Barang Darat, Asuransi Rangka Kapal, Asuransi Protection and Indemnity (P&I) & Lainnya.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -141,9 +120,9 @@
 	            		<div class="carousel-card">
 		            		<img src="themes/default/assets/images/Beranda - Asuransi Aneka.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
 		            		<div class="carousel-card-content">
-		            			<h5>MISCELLANOUS INSURANCE</h5>
-		            			<p>Other Insurance that has not been mentioned will be classified as various products such as Surety Bond, Cash in Transit, Cash in Save, Burglary and Theft, Hole In One, Liability, Billboard, Travel, and others.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
+		            			<h5>Asuransi Aneka</h5>
+		            			<p>Asuransi Pencurian, Asuransi Uang, Asuransi Kecelakaan, Asuransi Kesehatan, Asuransi Perjalanan & Lainnya.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -151,15 +130,20 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="themes/default/assets/images/Beranda - Asuransi Kredit.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
+		            		<img src="themes/default/assets/images/Beranda - Asuransi Kecelakaan Diri.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
 		            		<div class="carousel-card-content">
-		            			<h5>CREDIT INSURANCE</h5>
-		            			<p>Provide assurance of protection against the responsibility of repayment of the remaining credit if the debtor suffered natural death or accident. And other risks such as layoffs.</p>
-		            			<div class="right-align"><a href="insurance-program.php" class="read-more">Selengkapnya</a></div>
+		            			<h5>Asuransi Tanggung Gugat</h5>
+		            			<p>Asuransi Public Liability, Asuransi Product Liability, Asuransi Comprehensive General Liability (CGL), Asuransi Automobile Liability, Asuransi Workmens Compensation, Asuransi Employers Liability & Lainnya.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
 		            			
 		            		</div>
 	            		</div>
 	            	</li>
+
+
+	            	
+
+	            	
 	          </ul>
 	        </div>
 

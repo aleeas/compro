@@ -50,20 +50,18 @@
 							      <textarea name="comments"></textarea>
 							    </div>
 						    </div>
-						    <div style="text-align:right;margin-bottom:20px;">
+						    <div style="text-align:right;margin-bottom:20px;margin-right:10px;">
 						    	<button class="ui button trigger" type="submit">Submit</button>
 						    </div>
 
 						    <div class="inline fields">
 							    <div class="sixteen wide field">
 							    	<label>Alamat</label>
-							    	<address>
+							    	<address style="font-size:12px;font-style:normal">
 							    	PT ALIH RISIKO MAKNA SEJATERA (ARMS) <br>
-									Gedung Yarnati t. 3 R. 309 <br>
-									Jl. Proklamasi No.44, Jakarta Pusat - 10320 <br>
-									Telp. (021) 2139 7548 / 75
+									Kantor Jakarta : Gedung Yarnati t. 3 R. 309, Jl. Proklamasi No.44, Menteng, Jakarta Pusat - 10320. Telp. (021) 2139 7548 / 75 <br>
+									Sales Point - Medan : Rukan Simpang Limun Vista, Blok C No. 4, Jalan Sakti Lubis, Medan. Telp : (061) 7852 799 
 							    	</address>
-							    	<span style="position:relative;left:35px;"><img src="themes/default/assets/images/phone.png"></span>
 								    
 								</div>
 							</div>					    

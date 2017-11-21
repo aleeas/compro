@@ -5,6 +5,20 @@
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/semantic.css">
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/custom.css">
+		<style type="text/css">
+			ul.dashed {
+			  list-style-type: none;
+			  color: #888;
+			}
+			ul.dashed > li {
+			  text-indent: -20px;
+			}
+			ul.dashed > li:before {
+			  content: "-";
+			  text-indent: -20px;
+			  margin-right: 10px;
+			}
+		</style>
 	</head>
 	<body>
 
@@ -20,25 +34,36 @@
 				<div class="content-inner">
 					<div class="content-images">
 						<div class="top-content-left"></div>
-						<img class="" src="../themes/default/assets/images/Sub Menu PELAYANAN - KONSULTAN ASURANSI.jpg">
+						<img class="" src="../themes/default/assets/images/Sub Menu PELAYANAN - ADVOKASI ASURANSI.jpg">
 					</div>
 					<div class="content-descriptions">
 						<div class="top-content-right"></div>
-						<h3>Insurance Consultants</h3>
-						
-						<h4><i class="checkmark icon"></i> INSURANCE &amp; CLAIM CONSULTANTS </h4>
-						<div class="ui ordered list">
-						  <span class="item">Design of insurance programs.</span>
-						  <span class="item">Insurance Consulting.</span>
-						  <span class="item">Best Insurance / Reinsurance Placement.</span>
-						  <span class="item"> Reporting &amp; Claim Handling.</span>
-						  <span class="item">Claim Management Service.</span>
-						</div>
+						<h3>Insurance Advocacy</h3>
+						<div style="margin-top:10px">
+							<p>Legal assistance in the field of insurance covers services:  </p>
+							<ul class="dashed">
+								<li>Legal Consultation</li>
+								<li>Claim Advocacy</li>
+								<li>And Others</li>
+							</ul>
+							<p>
+							Address : <br>
+							Robema Law Firm <br>
+							Gedung Yarnati Lt. 2 R. 207 <br>
+							Jln. Proklamasi No. 44, Menteng, Jakarta Pusat – 10320</p>
+							
 
-						<h4><i class="checkmark icon"></i> RISK MANAGEMENT</h4>
-						
+							<p>Contact Person : <br>
+							Bpk. Robert B. Manurung – 0812 9964 547<br>
+							Bpk. Handoyo – 0813 1647 3318</p>
+
+							<div style="text-align:right">
+								<img src="../themes/default/assets/images/Added-Value-logo.png" height="70">
+							</div>
+						</div>						
+												
 					</div>
-					<div class="ui grid " style="width:955px">
+					<div class="ui grid" style="width:955px">
 						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
 						<div class="nine wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
 					</div>

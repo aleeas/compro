@@ -27,7 +27,6 @@
 						    Tentang Kami
 						    <div class="menu menu-drop">
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'why-broker.php'){echo 'active'; }else { echo ''; } ?>" href="why-broker.php">Kenapa Broker</a>
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'benefit.php'){echo 'active'; }else { echo ''; } ?>" href="benefit.php">Manfaat Broker</a>
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profile</a>
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Visi &amp; Misi</a>
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Filosofi Kerja</a>
@@ -42,10 +41,14 @@
 						 <li><div class="ui simple dropdown item">
 						    Pelayanan
 						    <div class="menu menu-drop">
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-consultant.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-consultant.php">
-						      		Konsultan Asuransi</a>
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-program.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-program.php">Program Asuransi</a>	
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'claim-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="claim-advocacy.php">Advokasi Klaim</a>						      
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'our-services.php'){echo 'active'; }else { echo ''; } ?>" href="our-services.php">
+						      		Layanan Kami</a>
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-product.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-product.php">
+						      		Produk Asuransi</a>
+						      <!-- <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'client-benefit.php'){echo 'active'; }else { echo ''; } ?>" href="client-benefit.php">
+						      		Keuntungan Klien</a>	 -->	
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-advocacy.php">
+						      		Advokasi Asuransi</a>						      
 						    </div>
 						 </div></li>
 						 <li><div class="ui simple dropdown item">

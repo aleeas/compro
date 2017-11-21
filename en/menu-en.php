@@ -11,7 +11,7 @@
 	  </div>
       	<div class="ui fluid category search" style="float:right;">
 		  <div class="ui icon input">
-		    <input class="prompt" type="text" placeholder="Cari Disini..." style="border-radius:5px;">
+		    <input class="prompt" type="text" placeholder="Search Here..." style="border-radius:5px;">
 		    <i class="search icon"></i>
 		  </div>
 		  <div class="results"></div>
@@ -25,7 +25,7 @@
 			    About Us
 			    <div class="menu menu-drop">
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'why-broker.php'){echo 'active'; }else { echo ''; } ?>" href="why-broker.php">Why Brokers</a>
-			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'benefit.php'){echo 'active'; }else { echo ''; } ?>" href="benefit.php">Benefit</a>
+			      <!-- <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'benefit.php'){echo 'active'; }else { echo ''; } ?>" href="benefit.php">Benefit</a> -->
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profile</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Vision &amp; Missions</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Work Philosopy</a>
@@ -37,12 +37,14 @@
 			 <li><div class="ui simple dropdown item">
 				Services
 			    <div class="menu menu-drop">
-			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-consultant.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-consultant.php">
-			      Insurance Consultants</a>
-			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-program.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-program.php">
-			      Insurance Program</a>	
-			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'claim-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="claim-advocacy.php">
-			      Claim Advocacy</a>						      
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'our-services.php'){echo 'active'; }else { echo ''; } ?>" href="our-services.php">
+			      Our Services</a>
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-product.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-product.php">
+			      Insurance Product</a>
+			      <!-- <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'client-benefit.php'){echo 'active'; }else { echo ''; } ?>" href="client-benefit.php">
+				  Client Benefit</a>	 -->	
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-advocacy.php">
+			      Insurance Advocacy</a>						      
 			    </div>
 			 </div></li>
 			 <li><div class="ui simple dropdown item">
