@@ -60,7 +60,7 @@
 		            		<img src="themes/default/assets/images/Beranda - Asuransi Kebakaran.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/61_1small-liability.png">
 		            		<div class="carousel-card-content">
 		            			<h5>Asuransi Harta Benda</h5>
-		            			<p>: Asuransi Kebakaran, Asuransi Industrial/Property All Risks, Asuransi Gempa Bumi, Asuransi Sabotase & Terorisme & Lainnya.</p>
+		            			<p>Asuransi Kebakaran, Asuransi Industrial/Property All Risks, Asuransi Gempa Bumi, Asuransi Sabotase & Terorisme & Lainnya.</p>
 		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Selengkapnya...</a></div>
 		            			
 		            		</div>

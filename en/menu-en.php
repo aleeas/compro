@@ -41,8 +41,8 @@
 			      Our Services</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-product.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-product.php">
 			      Insurance Product</a>
-			      <!-- <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'client-benefit.php'){echo 'active'; }else { echo ''; } ?>" href="client-benefit.php">
-				  Client Benefit</a>	 -->	
+			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'client-benefit.php'){echo 'active'; }else { echo ''; } ?>" href="client-benefit.php">
+				  Client Benefit</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'insurance-advocacy.php'){echo 'active'; }else { echo ''; } ?>" href="insurance-advocacy.php">
 			      Insurance Advocacy</a>						      
 			    </div>
