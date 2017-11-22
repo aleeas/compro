@@ -70,8 +70,8 @@
 					</div>
 				</div>
 				<div class="ui grid" style="width:955px">
-					<div class="eight wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
-					<div class="eight wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
+					<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
+					<div class="nine wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
 				</div>
 				<div class="clearfix"></div>
 
