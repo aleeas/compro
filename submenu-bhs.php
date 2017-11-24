@@ -3,7 +3,7 @@
 <i class="right angle icon divider"></i>
 <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profil</a>
 <i class="right angle icon divider"></i>
-<a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Visi &amp; Missi</a>
+<a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Visi &amp; Misi</a>
 <i class="right angle icon divider"></i>
 <!-- <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Filosopi Kerja</a>
 <i class="right angle icon divider"></i> -->
