@@ -28,7 +28,7 @@
 			      <!-- <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'benefit.php'){echo 'active'; }else { echo ''; } ?>" href="benefit.php">Benefit</a> -->
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profile</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Vision &amp; Missions</a>
-			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Work Philosopy</a>
+			      <!-- <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Work Philosopy</a> -->
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'management.php'){echo 'active'; }else { echo ''; } ?>" href="management.php">Board Of Management</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'our-team.php'){echo 'active'; }else { echo ''; } ?>" href="our-team.php">Our Team</a>
 			      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'legality.php'){echo 'active'; }else { echo ''; } ?>" href="legality.php">Legality</a>
