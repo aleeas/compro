@@ -41,7 +41,9 @@
 					</div>
 					<div class="ui grid " style="width:955px">
 						<div class="seven wide column" style="padding-top:0;"><div class="top-content-right-footer" style="width:100%"></div></div>
-						<div class="nine wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%"></div>	</div>
+						<div class="nine wide column" style="padding-top:0;"><div class="top-content-left-footer" style="width:100%">
+							<a href="contact.php" class="blink-blink">Order &amp; Ask Insurance Now!</a>
+						</div>	</div>
 					</div>
 					<div class="clearfix"></div>
 

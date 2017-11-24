@@ -5,8 +5,8 @@
 <i class="right angle icon divider"></i>
 <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Visi &amp; Missi</a>
 <i class="right angle icon divider"></i>
-<a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Filosopi Kerja</a>
-<i class="right angle icon divider"></i>
+<!-- <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Filosopi Kerja</a>
+<i class="right angle icon divider"></i> -->
 <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'management.php'){echo 'active'; }else { echo ''; } ?>" href="management.php">Manajemen</a>
 <i class="right angle icon divider"></i>
 <a class="section <?php if(basename($_SERVER['SCRIPT_NAME']) == 'our-team.php'){echo 'active'; }else { echo ''; } ?>" href="our-team.php">Team Kami</a>

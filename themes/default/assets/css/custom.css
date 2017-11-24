@@ -112,7 +112,7 @@ li.css a {
     border-radius: 5px;
     padding: 15px;
     margin-bottom: 10px;
-    min-height:180px;
+    min-height:150px;
     border: 1px solid #f3f3f3;
     float: left;
     position: relative;
@@ -124,9 +124,68 @@ li.css a {
     font-size: 12px;
     margin-left: 9px;
 }
-.carousel-card-content p{
-    max-height: 55px;
-    overflow: hidden;
+/*.carousel-card-content p{
+    max-height: 60px;
+    overflow: hidden;    
+    display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+}*/
+.line-clamp
+{
+    display            : block;
+    display            : -webkit-box;
+    -webkit-box-orient : vertical;
+    position           : relative;
+
+    line-height        : 1.2;
+    overflow           : hidden;
+    text-overflow      : ellipsis;
+    padding            : 0 !important;
+}
+.line-clamp:after
+{
+    content    : '';
+    text-align : right;
+    bottom     : 0;
+    right      : 0;
+    width      : 25%;
+    display    : block;
+    position   : absolute;
+    height     : calc(1em * 1.2);
+    background : linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 75%);
+}
+@supports (-webkit-line-clamp: 1)
+{
+    .line-clamp:after
+    {
+        display : none !important;
+    }
+}
+.line-clamp-1
+{
+    -webkit-line-clamp : 1;
+    height             : calc(1em * 1.2 * 1);
+}
+.line-clamp-2
+{
+    -webkit-line-clamp : 2;
+    height             : calc(1em * 1.2 * 2);
+}
+.line-clamp-3
+{
+    -webkit-line-clamp : 3;
+    height             : calc(1em * 1.2 * 3);
+}
+.line-clamp-4
+{
+    -webkit-line-clamp : 4;
+    height             : calc(1em * 1.2 * 4);
+}
+.line-clamp-5
+{
+    -webkit-line-clamp : 5;
+    height             : calc(1em * 1.2 * 5);
 }
 .right-align{
 	text-align: right;
@@ -137,14 +196,30 @@ li.css a {
     border-radius: 5px;
     position: absolute;
     right: 10px;
-    bottom: 15px;
+    bottom: 0;
     font-size: 1rem;
     font-style: italic;
 }
 .read-more:hover{
 	color: rgb(0,32,96);
 }
-
+.list-client-benefit p{
+    margin-bottom: 0;
+}
+.blink-blink{
+    color: #fff;
+    position: absolute;
+    right: 22px;
+    top: 20px;
+    border: 1px solid #fff;
+    padding: 2px 5px;
+    font-size: 12px;
+    font-style: italic;
+    border-radius: 2px;
+}
+.blink-blink:hover{
+    color: #fff;
+}
 .divider-content{
 	width: 100%;
 	background: #ddd;
@@ -174,7 +249,7 @@ li.css a {
 }
 
 .footer-content .center-content {
-    max-width: 350px;
+    max-width: 410px;
     float: left;
     text-align: left;
     margin: 0px 10px;
@@ -186,8 +261,8 @@ li.css a {
 
 .footer-content .center-content .adreess-added{
     font-size: 11px;
+    line-height: 16px;
 }
-
 
 .list-corporate{
 	list-style-type: none;

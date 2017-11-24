@@ -27,9 +27,9 @@
 						    Tentang Kami
 						    <div class="menu menu-drop">
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'why-broker.php'){echo 'active'; }else { echo ''; } ?>" href="why-broker.php">Kenapa Broker</a>
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profile</a>
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Visi &amp; Misi</a>
-						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Filosofi Kerja</a>
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'profile.php'){echo 'active'; }else { echo ''; } ?>" href="profile.php">Profil</a>
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'vision.php'){echo 'active'; }else { echo ''; } ?>" href="vision.php">Visi &amp; Missi</a>
+						      <!-- <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'work-philosopy.php'){echo 'active'; }else { echo ''; } ?>" href="work-philosopy.php">Filosofi Kerja</a> -->
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'management.php'){echo 'active'; }else { echo ''; } ?>" href="management.php">Manajemen</a>
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'our-team.php'){echo 'active'; }else { echo ''; } ?>" href="our-team.php">Team Kami</a>
 						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'legality.php'){echo 'active'; }else { echo ''; } ?>" href="legality.php">Legalitas</a>

@@ -49,17 +49,16 @@
 							      <textarea name="comments"></textarea>
 							    </div>
 						    </div>
-						    <div style="text-align:right;margin-bottom:20px;">
+						    <div style="text-align:right;margin-bottom:0;">
 						    	<button class="ui button trigger" type="submit" >Submit</button>
 						    </div>
 
 						    <div class="inline fields">
 							    <div class="sixteen wide field">
-							    	<label>Our Address</label>
-							    	<address style="font-size:12px;font-style:normal">
+							    	<address style="font-size:11px;font-style:normal">
 							    	PT ALIH RISIKO MAKNA SEJATERA (ARMS) <br>
 									Jakarta Office : Gedung Yarnati t. 3 R. 309, Jl. Proklamasi No.44, Menteng, Jakarta Pusat - 10320. Telp. (021) 2139 7548 / 75<br>
-									Sales Point - Medan : Rukan Simpang Limun Vista, Blok C No. 4, Jalan Sakti Lubis, Medan. Telp : (061) 7852 799
+									Sales Point - Medan : Rukan Simpang Limun Vista, Blok C No. 4, Jalan Sakti Lubis, Medan. <br>Telp : (061) 7852 799
 							    	</address>
 							    	
 								</div>

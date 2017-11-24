@@ -57,11 +57,11 @@
 	          <ul class="slides">
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="../themes/default/assets/images/Beranda - Asuransi Kebakaran.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/61_1small-liability.png">
+		            		<img src="../themes/default/assets/images/Asuransi Harta Benda - Property All Risk-01.png" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/61_1small-liability.png">
 		            		<div class="carousel-card-content">
 		            			<h5>Property Insurance</h5>
-		            			<p>Fire Insurance, Industrial/Property All Risks, Earthquake Insurance, Terorism &amp; Sabotage Insurance & Others</p>
-		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore</a></div>
+		            			<p class="line-clamp line-clamp-3">Fire Insurance, Industrial/Property All Risks, Earthquake Insurance, Terorism &amp; Sabotage Insurance & Others</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -69,11 +69,11 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="../themes/default/assets/images/Beranda - Asuransi Kendaraan Bermotor.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/62_1heavy-equipment2.jpg">
+		            		<img src="../themes/default/assets/images/Asuransi Kendaraan Bermotor - Motor Vehicle Insurance-02.png" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/62_1heavy-equipment2.jpg">
 		            		<div class="carousel-card-content">
 		            			<h5>Motor Vehicle Insurance</h5>
-		            			<p>Comprehensive/All Risk) &amp; Total Loss Only.</p>
-		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore</a></div>
+		            			<p class="line-clamp line-clamp-3">Comprehensive/All Risk) &amp; Total Loss Only.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -82,11 +82,11 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="../themes/default/assets/images/Beranda - Asuransi Konsruksi.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/63_1small-alatberat.png">
+		            		<img src="../themes/default/assets/images/Asuransi Rekayasa - Engineering Insurance-03.png" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/63_1small-alatberat.png">
 		            		<div class="carousel-card-content">
 		            			<h5>ENGINEERING INSURANCE</h5>
-		            			<p>Contractors All Risks, Erection All Risks, Contractors Plant and Equipments, Electronic Equipment Insurance, Machinery Breakdown & Others</p>
-		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore</a></div>
+		            			<p class="line-clamp line-clamp-3">Contractors All Risks, Erection All Risks, Contractors Plant and Equipments, Electronic Equipment Insurance, Machinery Breakdown & Others</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -94,11 +94,11 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="../themes/default/assets/images/Beranda - Asuransi Kredit.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
+		            		<img src="../themes/default/assets/images/Asuransi Kredit & Penjaminan - Credit & Surety Bond  Guarantee-04.png" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
 		            		<div class="carousel-card-content">
 		            			<h5>Credit, Surety Bond &amp; Guarantee</h5>
-		            			<p>Bid Bond, Advance Payment Bond, Performance Bond, Maintenance Bond, Kontra Bank Garansi, Credit Insurance &amp; Others.</p>
-		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore</a></div>
+		            			<p class="line-clamp line-clamp-3">Bid Bond, Advance Payment Bond, Performance Bond, Maintenance Bond, Kontra Bank Garansi, Credit Insurance &amp; Others.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -106,11 +106,11 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="../themes/default/assets/images/Beranda - Asuransi Pengangkutan Barang.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
+		            		<img src="../themes/default/assets/images/Asuransi Pengangkutan Barang & Rangka Kapal - Cargo & Marine Hull Insurance-05.png" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
 		            		<div class="carousel-card-content">
 		            			<h5>Hull &amp; Cargo Insurance</h5>
-		            			<p>Marine Cargo Insurance, Air Cargo Insurance, Land in Transit Insurance, Marine Hull, Protection and Indemnity (P&amp;I) &amp; Others</p>
-		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore</a></div>
+		            			<p class="line-clamp line-clamp-3">Marine Cargo Insurance, Air Cargo Insurance, Land in Transit Insurance, Marine Hull, Protection and Indemnity (P&amp;I) &amp; Others</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -118,11 +118,11 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="../themes/default/assets/images/Beranda - Asuransi Aneka.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
+		            		<img src="../themes/default/assets/images/Asuransi Aneka - Miscellous Insurance-06.png" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
 		            		<div class="carousel-card-content">
 		            			<h5>Miscellaneous Insurance</h5>
-		            			<p>Burglary, Money Insurance, Personal Accident, Health Insurance, Travel Insurance &amp; Others</p>
-		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore</a></div>
+		            			<p class="line-clamp line-clamp-3">Burglary, Money Insurance, Personal Accident, Health Insurance, Travel Insurance &amp; Others</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore...</a></div>
 		            			
 		            		</div>
 	            		</div>
@@ -131,11 +131,11 @@
 
 	            	<li>
 	            		<div class="carousel-card">
-		            		<img src="../themes/default/assets/images/Beranda - Asuransi Kecelakaan Diri.jpg" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
+		            		<img src="../themes/default/assets/images/Asuransi Tanggung Gugat - Liability Insurance-07.png" style="width:104px;height:104px;object-fit:cover" alt="http://mpm-insurance.com/0_repository/images/59_1small_cash.png">
 		            		<div class="carousel-card-content">
 		            			<h5>Liability Insurance</h5>
-		            			<p>Public Liability, Product Liability, Comprehensive General Liability (CGL), Automobile Liability, Workmens Compensation, Employers Liability &amp; Others.</p>
-		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore</a></div>
+		            			<p class="line-clamp line-clamp-3">Public Liability, Product Liability, Comprehensive General Liability (CGL), Automobile Liability, Workmens Compensation, Employers Liability &amp; Others.</p>
+		            			<div class="right-align"><a href="insurance-product.php" class="read-more">Readmore...</a></div>
 		            			
 		            		</div>
 	            		</div>
