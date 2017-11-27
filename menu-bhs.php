@@ -61,9 +61,18 @@
 						 <li><a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'career.php'){echo 'active'; }else { echo ''; } ?>" href="career.php">
 						    Karir
 						 </a></li>
-						 <li><a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'contact.php'){echo 'active'; }else { echo ''; } ?>" href="contact.php">
+
+						 <li><div class="ui simple dropdown item">
 						    Hubungi Kami
-						 </a></li>
+						    <div class="menu menu-drop" style="width:130px">
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'contact.php'){echo 'active'; }else { echo ''; } ?>" href="contact.php">
+						    		Kontak Kami
+						 	  </a>
+						      <a class="item <?php if(basename($_SERVER['SCRIPT_NAME']) == 'office.php'){echo 'active'; }else { echo ''; } ?>" href="office.php">
+						    		Kantor Kami
+						 	  </a>						      
+						    </div>
+						 </div></li>
 			    	</ul>
 			    </div>			    
 			  </div>

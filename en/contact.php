@@ -53,7 +53,7 @@
 						    	<button class="ui button trigger" type="submit" >Submit</button>
 						    </div>
 
-						    <div class="inline fields">
+						    <!-- <div class="inline fields">
 							    <div class="sixteen wide field">
 							    	<address style="font-size:11px;font-style:normal">
 							    	PT ALIH RISIKO MAKNA SEJATERA (ARMS) <br>
@@ -62,7 +62,7 @@
 							    	</address>
 							    	
 								</div>
-							</div>					    
+							</div> -->					    
 						  </div>
 
 						  </form>

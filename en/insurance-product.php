@@ -3,11 +3,12 @@
 	<head>
 		<title>ARMS - PT. Alih Risiko Makna Sejahtera Insurance </title>
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/semantic.css">
-		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/flexslider.css" media="screen" />				
+		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/nanoscroller.css">
 		<link rel="stylesheet" type="text/css" href="../themes/default/assets/css/custom.css">
 		<style type="text/css">
 			fieldset{
-				margin: 10px 0;
+				margin: 10px 10px 0 0;
 	    		border: 5px solid #ddd;
 			}
 			legend {
@@ -43,6 +44,8 @@
 					<div class="content-descriptions" style="padding-bottom:0;">
 						<div class="top-content-right"></div>
 						<h3>Insurance Product</h3>
+						<div class="nano">
+						<div class="overthrow nano-content description">
 
 						 <fieldset>
 						  	<legend>Property Insurance</legend>
@@ -119,6 +122,9 @@
 								 <span class="item">Employers Liability</span>
 						  	</div>
 						 </fieldset>
+
+						 </div>
+						 </div>
 						
 					</div>
 					<div class="ui grid" style="width:955px">
@@ -139,6 +145,10 @@
 
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
 	    crossorigin="anonymous"></script>
+	    <script src="../themes/default/assets/js/jquery.nanoscroller.min.js"></script>
+        <script type="text/javascript">
+        	$(".nano").nanoScroller({ scroll: 'top' });
+        </script>
         <script src="../themes/default/assets/js/semantic.js"></script>
         <script src="../themes/default/assets/js/search.js"></script>
         
