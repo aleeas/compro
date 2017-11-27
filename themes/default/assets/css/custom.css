@@ -292,14 +292,15 @@ animation:blink normal 2s infinite ease-in-out;
 }
 
 .footer-content .center-content {
-    max-width: 410px;
+    max-width: 530px;
     float: left;
     text-align: left;
     margin: 33px 10px;
     font-size: 13px;
     color: #888;
-    font-weight: bold;
+    font-weight: 700;
     vertical-align: middle;
+    text-transform: uppercase;
 }
 
 .footer-content .center-content .adreess-added{
