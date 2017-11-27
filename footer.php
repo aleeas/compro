@@ -1,8 +1,7 @@
 <footer>
 	<div class="footer-content">
 		<!-- <img src="themes/default/assets/images/Logo ARMS-01.png" height="40">  -->
-		<div class="center-content">"We make your insurance needs to be Efficient, Effective and Reliable"<div class="adreess-added">
-		Kantor Kami : Gedung Yarnati Lt. 3 R. 309, Jln. Proklamasi No. 44, Menteng, Jakarta Pusat - 10320. Tlp. (021) 2139 3548/75</div></div>
+		<div class="center-content"><strong>"We make your insurance needs to be Efficient, Effective and Reliable"</strong></div>
 
 		<ul class="list-corporate">
 			
