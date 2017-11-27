@@ -56,8 +56,8 @@
 						  <thead>
 						    <tr>						      
 						      <th colspan="2">SUBJECT</th>
-						      <th>INSURANCE BROKERS</th>
 						      <th>INSURANCE COMPANY</th>
+						      <th>INSURANCE BROKERS</th>
 						    </tr>
 						  </thead>
 						  <tbody>

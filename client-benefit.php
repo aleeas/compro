@@ -56,8 +56,8 @@
 						  <thead>
 						    <tr>						      
 						      <th colspan="2">KETERANGAN</th>
-						      <th>PIALANG ASURANSI</th>
 						      <th>PERUSAHAAN ASURANSI</th>
+						      <th>PIALANG ASURANSI</th>
 						    </tr>
 						  </thead>
 						  <tbody>
